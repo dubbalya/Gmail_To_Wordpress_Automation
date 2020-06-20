@@ -1,1 +1,1 @@
-# Email_To_Wordpress_Automation
+# Email_To_WordPress_Automation
