@@ -4,5 +4,9 @@ Simple use case for this automation: I recently built a website for my mother to
 
 This automation utilizes Al Sweigart's ezgmail module and the Wordpress REST API. This class allows users to email a gmail address, read the email contents (limited to 200 characters per post), download the image provided (limited to one per email), and upload the Subject, Email Contents, and Image as a new WP post.
 
-Note that you will need to use the Application Passwords plug-in to generate a Key for authentication. Be sure not to store this key in the production code! Up to three (3) email addresses can be inserted for the automation to "listen" for. 
+Note that you will need to use the Application Passwords plug-in to generate a Key for authentication. Be sure not to store this key in the production code! Up to three (3) email addresses can be inserted for the automation to "listen" for.
+
+https://ezgmail.readthedocs.io/en/latest/
+
+https://developer.wordpress.org/rest-api/
 
