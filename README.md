@@ -1,4 +1,4 @@
-# Email_To_WordPress_Automation
+# Gmail_To_WordPress_Automation
 
 Simple use case for this automation: I recently built a website for my mother to showcase her beautiful paintings to th world, but her tech savvy is limited. This automation eliminates her need to log into the WordPress dashboard and figure out how to draft a post, insert a featured image, and upload. Instead, she can simply email me with her painting, along with a short description, and a post will be automatically created for her!
 
